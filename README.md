@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Aisulu
-- 🌱 I’m currently learning Python
+- 🌱 I'm a senior at University of Houston, studying BS in Computer Science. Currently, I am looking for internship and full-time positions.
