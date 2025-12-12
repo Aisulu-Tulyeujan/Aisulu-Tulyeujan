@@ -21,10 +21,10 @@ My work spans backend services, real-time systems, ML-driven analytics, and full
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript (Node.js), C++, SQL, Java (familiar), Bash
-**Backend / Data:** Django REST, Express.js, Flask, MySQL, PostgreSQL, MongoDB
-**Frontend:** React.js, HTML/CSS, Bootstrap
-**Tools / Infra:** Git, GitHub Actions, Docker, Linux/Unix, Postman, Jupyter
+* **Languages:** Python, JavaScript (Node.js), C++, SQL, Java (familiar), Bash
+* **Backend / Data:** Django REST, Express.js, Flask, MySQL, PostgreSQL, MongoDB
+* **Frontend:** React.js, HTML/CSS, Bootstrap
+* **Tools / Infra:** Git, GitHub Actions, Docker, Linux/Unix, Postman, Jupyter
 
 ---
 
